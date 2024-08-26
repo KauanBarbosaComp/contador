@@ -1,0 +1,12 @@
+.header {
+  align-items: center;
+  background-color: rgb(18, 5, 61);
+  box-shadow: 0px 5px 10px 5px black;
+  color: white;
+  display: flex;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 2em;
+  font-weight: bold;
+  height: 4em;
+  justify-content: center;
+}
